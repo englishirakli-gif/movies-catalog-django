@@ -21,3 +21,5 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 ```
+
+README დავამატე, რომ GitHub-ზე პროექტის გახსნისას მაშინვე ჩანდეს, რას აკეთებს და როგორ გაეშვას.
